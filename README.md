@@ -1,2 +1,8 @@
-# Gericht Restaurant
- Modern UI/UX Restaurant Landing Page Website created using ReactJS.
+GERICHT RESTAURANT
+==================  
+
+[Live Website]()  
+
+Modern UI/UX Restaurant Landing Page Website created using ReactJS.  
+
+![Welcome Page](./assets/welcome_page.png)
